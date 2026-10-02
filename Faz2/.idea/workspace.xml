@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b67f54fc-90ec-45cc-a482-60545e76f444" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/enemies/miniBoss/Barricados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/enemies/miniBoss/BlackOrb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/enemies/miniBoss/Orb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Collision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Collision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/EnemyBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/EnemyBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/EntityData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/EntityData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/PanelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/PanelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/ShotController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/ShotController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Update.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Update.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/Util/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/Util/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Epsilon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Epsilon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Shot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Shot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/enemies/Archmire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/enemies/normal/Archmire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/enemies/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/enemies/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/enemies/MiniArchmire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/enemies/normal/MiniArchmire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/enemies/Necropick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/enemies/normal/Necropick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/enemies/Omenoct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/enemies/normal/Omenoct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/enemies/Squarantine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/enemies/normal/Squarantine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/enemies/Trigorath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/enemies/normal/Trigorath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/enemies/Wyrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/enemies/normal/Wyrm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/view/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/MyFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/view/panels/FirstPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/panels/FirstPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/view/panels/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/panels/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/view/panels/MainMenuPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/panels/MainMenuPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/view/panels/StorePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/panels/StorePanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2imPs8Kj7fgDopQR4hgGrLz82YW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CircleLineCollisionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Collision$Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;faz1&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/mac/IdeaProjects/ProjectAP/Faz2/src/main/java/main/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="controller.Util.Constant" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Faz2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b67f54fc-90ec-45cc-a482-60545e76f444" name="Changes" comment="" />
+      <created>1720092982609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720092982609</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
